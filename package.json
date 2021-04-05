@@ -1,0 +1,32 @@
+{
+  "name": "text-ttr",
+  "version": "1.0.0",
+  "description": "Creates illusion image that can only be read when you tilt your screen",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "text-ttr",
+    "image-ttr",
+    "ttr",
+    "image",
+    "illusion",
+    "tilt",
+    "tilt to read",
+    "image tilt",
+    "node-gd",
+    "akansh sirohi"
+  ],
+  "author": {
+    "name": "Akansh Sirohi",
+    "email": "akanshjaat@gmail.com",
+    "url": "https://akanshsirohi.herokuapp.com"
+  },
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "node-gd": "^2.1.1",
+    "parse-color": "^1.0.0"
+  }
+}
