@@ -6,7 +6,7 @@
 
 ### Note
 
-- It uses [node-gd](https://github.com/y-a-v-a/node-gd), and `node-gd` require `libgd` that currently doesn't supports `windows` systems.
+- It uses [node-gd](https://github.com/y-a-v-a/node-gd) as dependency, and `node-gd` require `libgd` that currently doesn't supports `windows` systems.
 
 ### On Debian/Ubuntu
 
