@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Creates illusion image that can only be read when you tilt your screen",
   "main": "index.js",
+  "repository": "akanshsirohi/text-ttr",
   "scripts": {
     "test": ""
   },
