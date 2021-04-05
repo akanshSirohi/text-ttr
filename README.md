@@ -1,6 +1,6 @@
 # TextTTR
 
-NodeJS library that creates illusion image that can only be read when you tilt your screen
+> NodeJS library that creates illusion image that can only be read when you tilt your screen
 
 ## Installation
 
