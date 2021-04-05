@@ -151,7 +151,7 @@ module.exports = (
     );
     let text_box = image.stringFTBBox(
       tCol,
-      "./assets/abstract_slab.ttf",
+      "./node_modules/text-ttr/assets/abstract_slab.ttf",
       font_size,
       0,
       0,
@@ -169,7 +169,7 @@ module.exports = (
       x,
       y,
       tCol,
-      "./assets/abstract_slab.ttf",
+      "./node_modules/text-ttr/assets/abstract_slab.ttf",
       text1,
       50
     );
@@ -209,7 +209,7 @@ module.exports = (
       );
       text_box = image2.stringFTBBox(
         tCol,
-        "./assets/abstract_slab.ttf",
+        "./node_modules/text-ttr/assets/abstract_slab.ttf",
         font_size,
         0,
         0,
@@ -227,7 +227,7 @@ module.exports = (
         x,
         y,
         tCol,
-        "./assets/abstract_slab.ttf",
+        "./node_modules/text-ttr/assets/abstract_slab.ttf",
         text2,
         50
       );
