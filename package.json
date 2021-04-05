@@ -1,6 +1,6 @@
 {
   "name": "text-ttr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates illusion image that can only be read when you tilt your screen",
   "main": "index.js",
   "repository": "akanshsirohi/text-ttr",
